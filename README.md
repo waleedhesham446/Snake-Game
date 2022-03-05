@@ -1,5 +1,5 @@
 # Snake-Game
-A snake game built in java programming language
+A classic snake game built in java programming language
 
 ## Getting Started
 
